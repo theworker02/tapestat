@@ -22,8 +22,9 @@
   "keywords": [
     "tape",
     "stat",
-    "stat",
     "cli",
-    "toolkit"
+    "toolkit",
+    "v1",
+    "stable"
   ]
 }
